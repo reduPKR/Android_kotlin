@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">votacao</string>
+    <string name="adicionar_eleitor">Adicionar eleitor</string>
+    <string name="adicionar_candidato">Adicionar candidato</string>
+    <string name="lista_de_eleitores">Lista de eleitores</string>
+    <string name="lista_de_candidatos">Lista de candidatos</string>
+    <string name="gravar_voto">Gravar voto</string>
+    <string name="resultado">Resultado</string>
+</resources>
