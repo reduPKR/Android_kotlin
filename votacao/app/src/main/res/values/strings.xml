@@ -6,4 +6,8 @@
     <string name="lista_de_candidatos">Lista de candidatos</string>
     <string name="gravar_voto">Gravar voto</string>
     <string name="resultado">Resultado</string>
+    <string name="nome">Nome</string>
+    <string name="documento">Documento</string>
+    <string name="telefone">Telefone</string>
+    <string name="salvar">Salvar</string>
 </resources>

@@ -10,15 +10,16 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginStart="36dp"
+        tools:layout_editor_absoluteY="36dp"
         android:text="@string/adicionar_eleitor"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="0dp" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/button_adicionar_candidato"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginStart="16dp"
+        tools:layout_editor_absoluteY="36dp"
         android:text="@string/adicionar_candidato"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button_adicionar_eleitor" />
@@ -66,4 +67,5 @@
         app:layout_constraintHorizontal_bias="0.431"
         app:layout_constraintStart_toEndOf="@+id/button_gravar_voto"
         app:layout_constraintTop_toBottomOf="@+id/button_listar_candidato" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
